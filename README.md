@@ -240,40 +240,15 @@ VITE_API_URL=https://your-api-domain.com
 VITE_APP_NAME=Healthcare Platform
 ```
 
-### Docker Deployment
-```bash
-# Build and run with Docker Compose
-docker-compose up --build
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
+## 👥 Tech
 
 - **Frontend Development**: React.js, Tailwind CSS, Responsive Design
 - **Backend Development**: Node.js, Express.js, MongoDB
 - **AI/ML Integration**: Python, Flask, Scikit-learn
-- **DevOps**: Docker, CI/CD, Cloud Deployment
-
-## 📞 Support
-
-For support, email support@healthcareplatform.com or join our Slack channel.
-
-## 🙏 Acknowledgments
-
-- Thanks to all healthcare professionals who provided domain expertise
-- Open source community for the amazing tools and libraries
-- Beta testers who helped improve the platform
 
 ---
 
