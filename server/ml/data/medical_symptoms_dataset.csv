@@ -1,0 +1,106 @@
+symptoms,specialty,confidence,urgency
+"chest pain shortness of breath",Cardiology,0.85,high
+"heart palpitations dizziness",Cardiology,0.82,medium
+"irregular heartbeat fatigue",Cardiology,0.78,medium
+"chest pressure sweating",Cardiology,0.88,high
+"high blood pressure headache",Cardiology,0.75,medium
+"skin rash itching",Dermatology,0.92,low
+"acne dry skin",Dermatology,0.85,low
+"mole changes color",Dermatology,0.90,medium
+"eczema allergic reaction",Dermatology,0.88,medium
+"psoriasis scaly patches",Dermatology,0.85,low
+"diabetes blood sugar",Endocrinology,0.90,medium
+"thyroid fatigue weight gain",Endocrinology,0.83,medium
+"hormone imbalance mood swings",Endocrinology,0.78,low
+"excessive thirst urination",Endocrinology,0.87,high
+"growth hormone deficiency",Endocrinology,0.85,medium
+"stomach pain nausea",Gastroenterology,0.85,medium
+"diarrhea abdominal cramping",Gastroenterology,0.82,medium
+"constipation bloating",Gastroenterology,0.78,low
+"acid reflux heartburn",Gastroenterology,0.88,low
+"blood in stool",Gastroenterology,0.90,high
+"anemia fatigue weakness",Hematology,0.85,medium
+"easy bruising bleeding",Hematology,0.88,medium
+"swollen lymph nodes",Hematology,0.82,medium
+"blood clotting disorders",Hematology,0.90,high
+"unexplained weight loss",Hematology,0.75,medium
+"fever chills infection",Infectious Disease,0.88,high
+"persistent cough night sweats",Infectious Disease,0.85,medium
+"tropical disease symptoms",Infectious Disease,0.90,high
+"recurring infections",Infectious Disease,0.83,medium
+"vaccine side effects",Infectious Disease,0.78,low
+"kidney stones pain",Nephrology,0.88,high
+"blood in urine",Nephrology,0.85,medium
+"high blood pressure kidney",Nephrology,0.82,medium
+"frequent urination kidney",Nephrology,0.80,medium
+"dialysis complications",Nephrology,0.90,high
+"headache dizziness neurological",Neurology,0.85,medium
+"seizures epilepsy",Neurology,0.95,high
+"memory loss confusion",Neurology,0.88,medium
+"numbness tingling hands",Neurology,0.83,medium
+"migraine severe headache",Neurology,0.90,medium
+"cancer symptoms tumor",Oncology,0.88,high
+"chemotherapy side effects",Oncology,0.85,medium
+"unexplained lumps bumps",Oncology,0.80,medium
+"radiation therapy effects",Oncology,0.83,medium
+"family history cancer",Oncology,0.75,low
+"bone fracture pain",Orthopedics,0.90,medium
+"joint pain arthritis",Orthopedics,0.85,medium
+"back pain spine",Orthopedics,0.82,medium
+"sports injury muscle",Orthopedics,0.88,medium
+"knee pain swelling",Orthopedics,0.85,medium
+"child fever illness",Pediatrics,0.88,medium
+"infant development concerns",Pediatrics,0.85,low
+"vaccination schedule",Pediatrics,0.80,low
+"teenage growth issues",Pediatrics,0.78,low
+"childhood behavioral problems",Pediatrics,0.75,low
+"depression anxiety mood",Psychiatry,0.85,medium
+"panic attacks stress",Psychiatry,0.88,medium
+"sleep disorders insomnia",Psychiatry,0.82,medium
+"addiction substance abuse",Psychiatry,0.90,high
+"bipolar disorder manic",Psychiatry,0.87,medium
+"cough shortness breath",Pulmonology,0.85,medium
+"asthma wheezing breathing",Pulmonology,0.90,medium
+"chest xray abnormal",Pulmonology,0.82,medium
+"lung infection pneumonia",Pulmonology,0.88,high
+"chronic cough smoking",Pulmonology,0.85,medium
+"joint pain stiffness",Rheumatology,0.85,medium
+"autoimmune disease symptoms",Rheumatology,0.88,medium
+"lupus rheumatoid arthritis",Rheumatology,0.92,medium
+"inflammation muscle pain",Rheumatology,0.80,medium
+"connective tissue disorder",Rheumatology,0.85,medium
+"urinary tract infection",Urology,0.88,medium
+"kidney stones urinary",Urology,0.85,medium
+"prostate problems men",Urology,0.83,medium
+"bladder control issues",Urology,0.80,medium
+"sexual dysfunction erectile",Urology,0.78,low
+"menstrual problems irregular",Gynecology,0.88,medium
+"pregnancy complications",Gynecology,0.90,high
+"pelvic pain women",Gynecology,0.85,medium
+"breast lumps changes",Gynecology,0.88,medium
+"contraception family planning",Gynecology,0.75,low
+"eye pain vision problems",Ophthalmology,0.90,medium
+"blurred vision glasses",Ophthalmology,0.85,low
+"eye infection redness",Ophthalmology,0.88,medium
+"glaucoma eye pressure",Ophthalmology,0.92,high
+"cataracts eye surgery",Ophthalmology,0.85,medium
+"ear pain hearing loss",ENT,0.88,medium
+"sore throat tonsillitis",ENT,0.85,medium
+"sinus infection congestion",ENT,0.82,medium
+"nose bleeding allergies",ENT,0.80,low
+"voice changes hoarseness",ENT,0.83,medium
+"headache fever general",General Practice,0.75,medium
+"annual checkup routine",General Practice,0.70,low
+"minor cuts injuries",General Practice,0.85,low
+"common cold flu symptoms",General Practice,0.80,low
+"preventive care screening",General Practice,0.75,low
+"severe trauma accident",Emergency Medicine,0.95,critical
+"heart attack symptoms",Emergency Medicine,0.98,critical
+"stroke symptoms sudden",Emergency Medicine,0.95,critical
+"severe allergic reaction",Emergency Medicine,0.92,critical
+"poisoning overdose",Emergency Medicine,0.95,critical
+"chronic fatigue unexplained",General Practice,0.70,low
+"weight loss diet",General Practice,0.65,low
+"routine blood work",General Practice,0.70,low
+"travel medicine vaccination",General Practice,0.75,low
+"lifestyle counseling",General Practice,0.65,low 
