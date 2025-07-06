@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3" alt="Healthcare Platform Banner" width="1200" height="400" />
+  <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Healthcare Platform Banner" width="1200" height="400" />
 </p>
 
 ## 📋 Overview
