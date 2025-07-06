@@ -253,6 +253,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ for better healthcare accessibility</p>
+  <p>Made with ❤️ </p>
   <p>© 2024 Healthcare Platform. All rights reserved.</p>
 </div>
